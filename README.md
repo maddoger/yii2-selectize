@@ -7,13 +7,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```bash
-$ composer require maddoger/yii2-selectize-widget:~1.0
+$ composer require maddoger/yii2-selectize:~1.0
 ```
 
 or add
 
 ```
-"maddoger/yii2-selectize-widget": "~1.0"
+"maddoger/yii2-selectize": "~1.0"
 ```
 
 to the `require` section of your `composer.json` file.
