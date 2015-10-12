@@ -1,0 +1,23 @@
+{
+	"name": "maddoger/yii2-selectize",
+	"description": "Selectize.js widget for the Yii 2 framework",
+	"keywords": ["yii", "selectize", "jquery", "select"],
+	"type": "yii2-extension",
+	"license": "Apache License",
+	"support": {
+		"source": "https://github.com/maddoger/yii2-selectize"
+	},
+	"authors": [
+		{
+			"name": "Vitaliy Syrchikov",
+			"email": "maddoger@gmail.com"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "~2.0",
+		"bower-asset/selectize": "~0.12"
+	},
+	"autoload": {
+		"psr-4": { "maddoger\\widgets\\": "" }
+	}
+}
